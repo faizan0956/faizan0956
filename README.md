@@ -13,4 +13,3 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=faizan0956&theme=gruvbox&hide_border=false&include_all_commits=true)<br/>
 ![](https://streak-stats.demolab.com/?user=faizan0956&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=faizan0956&theme=gruvbox&hide_border=false&layout=compact)
