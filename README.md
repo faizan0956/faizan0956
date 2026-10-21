@@ -11,12 +11,12 @@
 <br>🔓 Penetration Testing<br>🛡️ Defensive Security<br>🌐 Web Application Security<br>📊 Security Monitoring (SOC)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=USERNAME&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=USERNAME&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=USERNAME&theme=gruvbox&hide_border=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=faizan0956&theme=gruvbox&hide_border=false&include_all_commits=true)<br/>
+![](https://streak-stats.demolab.com/?user=faizan0956&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=faizan0956&theme=gruvbox&hide_border=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=USERNAME&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=faizan0956&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 *Breaking things to learn how to protect them* 🛡️
