@@ -18,5 +18,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=faizan0956&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+# 📈 Contribution Graph:
+![](https://github-readme-activity-graph.vercel.app/graph?username=faizan0956&theme=react-dark&hide_border=true)
+
 ---
 *Breaking things to learn how to protect them* 🛡️
