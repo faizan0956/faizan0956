@@ -19,7 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=faizan0956&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # 📈 Contribution Graph:
-![](https://github-readme-activity-graph.vercel.app/graph?username=faizan0956&theme=react-dark&hide_border=true)
+![](https://ghchart.rshah.org/faizan0956)
 
----
-*Breaking things to learn how to protect them* 🛡️
+### 🔝 Top Languages:
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=faizan0956&theme=gruvbox&hide_border=false&layout=compact)
