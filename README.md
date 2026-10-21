@@ -18,8 +18,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=faizan0956&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-# 📈 Contribution Graph:
-![](https://ghchart.rshah.org/faizan0956)
-
-### 🔝 Top Languages:
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=faizan0956&theme=gruvbox&hide_border=false&include_all_commits=true&ring_color=000000)<br/>
+![](https://streak-stats.demolab.com/?user=faizan0956&theme=gruvbox&hide_border=false&ring=000000)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=faizan0956&theme=gruvbox&hide_border=false&layout=compact)
