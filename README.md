@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 <br>🎓 CS Student<br>🔐 Aspiring SOC Analyst | Penetration Tester<br>🌍 Pakistan<br><br>*Learning cybersecurity, one lab at a time* 🚀
 
 # 💻 Tech Stack:
@@ -15,10 +15,5 @@
 ![](https://streak-stats.demolab.com/?user=faizan0956&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=faizan0956&theme=gruvbox&hide_border=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=faizan0956&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=faizan0956&theme=gruvbox&hide_border=false&include_all_commits=true&ring_color=000000)<br/>
-![](https://streak-stats.demolab.com/?user=faizan0956&theme=gruvbox&hide_border=false&ring=000000)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=faizan0956&theme=gruvbox&hide_border=false&layout=compact)
+# 📈 Contribution Graph:
+![](https://ghchart.rshah.org/26a641/faizan0956)
