@@ -1,16 +1,17 @@
-## Hi there 👋
+# 💫 About Me:
+<br>🎓 CS Student<br>🔐 Aspiring SOC Analyst | Penetration Tester<br>🌍 Pakistan<br><br>*Learning cybersecurity, one lab at a time* 🚀
 
-<!--
-**faizan0956/faizan0956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Tech Stack:
+<br>🐍 Python<br>🐧 Linux / Bash<br>💻 PowerShell<br>🌐 HTML | CSS | JavaScript<br>🗄️ SQL
 
-Here are some ideas to get you started:
+# 🛠️ Security Tools:
+<br>🔎 Nmap<br>📡 Wireshark<br>🕷️ Burp Suite<br>💥 Metasploit<br>🐉 Kali Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🎯 Focus Areas:
+<br>🔓 Penetration Testing<br>🛡️ Defensive Security<br>🌐 Web Application Security<br>📊 Security Monitoring (SOC)
+
+# 🌱 Currently Learning:
+<br>⚙️ Network security<br>🧪 Lab environments and CTF-style practice<br>📝 Writing small security scripts
+
+---
+*Breaking things to learn how to protect them* 🛡️
